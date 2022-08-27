@@ -1,0 +1,47 @@
+.header-action {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-search {
+  padding: 12px;
+  margin: 12px 0;
+  font-family: "Inter", sans-serif;
+  background-color: transparent;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+.btn-genre {
+  margin: 12px 0;
+}
+
+.alert-icon {
+  color: #aaa;
+  cursor: pointer;
+}
+
+.modal-sinopsis .modal-content .modal-header {
+  border: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-sinopsis .modal-content .modal-body {
+  text-align: center;
+  border: 0;
+}
+
+.modal-sinopsis .modal-content .modal-footer {
+  display: flex;
+  justify-content: center;
+  border: 0;
+}
+
+.modal-sinopsis .modal-content .modal-footer .btn {
+  width: 150px;
+  height: 54px;
+  margin: 0 10px;
+  border-radius: 40px;
+}

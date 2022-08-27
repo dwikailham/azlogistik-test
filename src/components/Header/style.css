@@ -1,0 +1,35 @@
+.row-header {
+  margin: 43px 0 55px;
+}
+
+.text-header {
+  margin-left: 7px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.achievment {
+  color: #d8ac1e;
+  font-weight: 700;
+}
+
+.achievment svg {
+  font-size: 28px;
+}
+
+.btn-header {
+  border-radius: 40px;
+  padding: 8px 40px;
+  background-color: #166cf7;
+  color: white;
+  border: none;
+  transition: 0.3s;
+}
+
+.btn-header:hover {
+  background-color: #0e56ca;
+}
+
+.btn-header svg {
+  margin-right: 5px;
+}
